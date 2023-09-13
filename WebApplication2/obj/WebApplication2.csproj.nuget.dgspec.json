@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thoma\\RiderProjects\\WebApplication2\\WebApplication2\\WebApplication2.csproj": {}
+    "C:\\SCO1 projects\\GithubActions1\\WebApplication2\\WebApplication2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thoma\\RiderProjects\\WebApplication2\\WebApplication2\\WebApplication2.csproj": {
+    "C:\\SCO1 projects\\GithubActions1\\WebApplication2\\WebApplication2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thoma\\RiderProjects\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+        "projectUniqueName": "C:\\SCO1 projects\\GithubActions1\\WebApplication2\\WebApplication2.csproj",
         "projectName": "WebApplication2",
-        "projectPath": "C:\\Users\\thoma\\RiderProjects\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+        "projectPath": "C:\\SCO1 projects\\GithubActions1\\WebApplication2\\WebApplication2.csproj",
         "packagesPath": "C:\\Users\\thoma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thoma\\RiderProjects\\WebApplication2\\WebApplication2\\obj\\",
+        "outputPath": "C:\\SCO1 projects\\GithubActions1\\WebApplication2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thoma\\AppData\\Roaming\\NuGet\\NuGet.Config"

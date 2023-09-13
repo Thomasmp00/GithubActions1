@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qujyMKjvRlE3anio4D7PsWEyPZRcYfq9wKJMZGNMPU8UMuLtI8NRfq/NLVojzBQHla/TKY7WLjyUd7KfmfIgFg==",
+  "dgSpecHash": "ZtQAAKUKnIEbzc1hm4xLN2V/RS+rum4+gbQpTYu3o7Nx18rdFFM6TqjOpoBp9wlEsnjlRZdkARUpLpjZmSSieA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\thoma\\RiderProjects\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+  "projectFilePath": "C:\\SCO1 projects\\GithubActions1\\WebApplication2\\WebApplication2.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
